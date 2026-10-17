@@ -5,7 +5,8 @@
 <p align="center">Tutte le spese fisse, le rate e gli abbonamenti in un colpo d'occhio, con la proiezione sui prossimi mesi · macOS 13 o successivo<br>
 All your fixed costs, instalments and subscriptions at a glance, with a forecast for the months ahead · macOS 13 or later</p>
 
-<p align="center"><a href="https://github.com/alecensi82/SpeseRicorrenti/releases/latest/download/Spese-ricorrenti.dmg"><b>⬇︎ Scarica Spese ricorrenti / Download Spese ricorrenti</b></a></p>
+<p align="center"><a href="https://github.com/alecensi82/SpeseRicorrenti/releases/latest/download/Spese-ricorrenti.dmg"><b>⬇︎ Mac: scarica Spese ricorrenti / Download for Mac</b></a><br>
+<a href="https://testflight.apple.com/join/2YnQsk4s"><b>📱 iPhone: installa con TestFlight / Install on iPhone with TestFlight</b></a></p>
 
 <p align="center"><a href="CHANGELOG.md">Novità di ogni versione / What's new in each version</a></p>
 
@@ -33,7 +34,12 @@ Spese ricorrenti ti dà una visuale chiara e precisa di tutto quello che spendi 
 L'app è firmata con Developer ID e notarizzata da Apple: si apre senza avvisi.
 
 ### iPhone
-La versione per iPhone, che usa lo stesso file in iCloud Drive, è in arrivo su TestFlight.
+La versione per iPhone usa lo stesso file in iCloud Drive, quindi Mac e iPhone restano sincronizzati. È disponibile in beta con **TestFlight**:
+1. Dall'iPhone apri il link **[https://testflight.apple.com/join/2YnQsk4s](https://testflight.apple.com/join/2YnQsk4s)**.
+2. Se non ce l'hai, installa l'app **TestFlight** di Apple, poi premi **Accetta** e **Installa**.
+3. Al primo avvio tocca **Collega iCloud** e scegli la cartella **iCloud Drive › Spese ricorrenti** (creala se non esiste), oppure usa l'app solo sul telefono.
+
+Dentro TestFlight puoi inviare feedback e screenshot.
 
 ### Licenza
 Spese ricorrenti è gratuito per uso personale. Non è consentito ridistribuirlo o modificarlo. Vedi [LICENSE.txt](LICENSE.txt).
@@ -56,6 +62,9 @@ Spese ricorrenti ("Recurring expenses") gives you a clear and precise view of ev
 - Your data is saved in a file in your **iCloud Drive › Spese ricorrenti** folder, with daily automatic backups. No account, no server, no tracking.
 
 The interface is in Italian.
+
+### iPhone
+The iPhone version uses the same file in iCloud Drive, so your Mac and iPhone stay in sync. It is available as a beta through **TestFlight**: open **[https://testflight.apple.com/join/2YnQsk4s](https://testflight.apple.com/join/2YnQsk4s)** on your iPhone, install Apple's **TestFlight** app if needed, then tap **Accept** and **Install**. On first launch tap **Collega iCloud** (Link iCloud) and choose the **iCloud Drive › Spese ricorrenti** folder, or use the app on the phone only.
 
 ### Installation
 1. Download **Spese-ricorrenti.dmg** from the [Releases](../../releases/latest) page.
