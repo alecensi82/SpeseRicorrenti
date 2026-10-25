@@ -1,6 +1,22 @@
 # Spese ricorrenti — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.1 — 2026-10-25
+
+**Disdetta degli abbonamenti e aggiornamenti automatici.**
+- **Disdici un abbonamento** (es. Netflix) senza cancellarlo: apri la spesa, premi «Disdici l'abbonamento» e scegli l'ultimo addebito. Dopo quel mese non si rinnova più e non pesa più sui totali e sulle proiezioni, ma resta in elenco e nello storico dei pagamenti. Quando vuoi lo **riattivi** da un mese a tua scelta: il periodo in cui era fermo resta nello storico. Si può anche annullare la disdetta.
+- Nel confronto con il mese prima, il motivo è «disdetto: non si rinnova più»; la disdetta compare in «Quando pagherai meno», nel calendario e nello storico delle attività («Disdetto» / «Riattivato»).
+- **Aggiornamenti automatici da GitHub** (app Mac): all'avvio e una volta al giorno controlla se c'è una nuova versione e te lo dice con un banner. «Installa e riavvia» scarica il DMG, verifica che l'app sia firmata da Alessandro Censi (Developer ID) e notarizzata da Apple, sostituisce l'app e la riapre. Nelle Info puoi disattivare il controllo o scegliere «Installa da sola» (si installa alla chiusura). Menu: Spese ricorrenti › Controlla aggiornamenti…
+- Su iPhone le stesse novità arrivano con TestFlight.
+- Se hai la 1.0, installa questa versione a mano una volta: da qui in poi gli aggiornamenti sono automatici.
+
+*English* — **Cancel subscriptions and automatic updates.**
+- **Cancel a subscription** (e.g. Netflix) without deleting it: open the expense, press «Disdici l'abbonamento» and choose the last charge. After that month it no longer renews and stops counting in totals and forecasts, but it stays in your list and payment history. You can **reactivate** it from any month; the paused period stays in the history. A cancellation can also be undone.
+- In the comparison with the previous month the reason reads «disdetto: non si rinnova più» («cancelled: no longer renews»); cancellations also appear in «Quando pagherai meno», the calendar and the activity history («Disdetto» / «Riattivato»).
+- **Automatic updates from GitHub** (Mac app): at launch and once a day it checks for a new version and shows a banner. «Installa e riavvia» downloads the DMG, verifies that the app is signed by Alessandro Censi (Developer ID) and notarised by Apple, replaces the app and reopens it. In Info you can turn the check off or choose «Installa da sola» (installs when you quit). Menu: Spese ricorrenti › Controlla aggiornamenti…
+- On iPhone the same changes arrive through TestFlight.
+- If you have 1.0, install this version by hand once: from now on updates are automatic.
+
 ## 1.0 — 2026-10-16
 
 **Prima versione pubblica, con il nuovo stile moderno.**

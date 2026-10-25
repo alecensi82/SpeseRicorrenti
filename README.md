@@ -19,6 +19,7 @@ Spese ricorrenti ti dà una visuale chiara e precisa di tutto quello che spendi 
 - **Panoramica del mese**: addebiti reali, media mensile (bimestrali e annuali ripartiti), debito residuo di rate e finanziamenti.
 - **Grafico dei prossimi 12, 24 o 36 mesi**, con il dettaglio di ogni mese e cosa paghi **in più o in meno** rispetto al mese prima, con il motivo (una rata che finisce, un pagamento annuale…).
 - **Calendario degli addebiti**: in quale giorno pagherai cosa, e i prossimi addebiti in ordine di data.
+- **Disdetta degli abbonamenti**: «Disdici» un abbonamento (es. Netflix) e dopo l'ultimo addebito non si rinnova più, ma resta nello storico; lo riattivi quando vuoi.
 - **Rate e pagamenti a rate** di qualsiasi spesa, anche annuale (es. il bollo in 3 rate PayPal), senza contarla due volte.
 - **Metodi di pagamento** (PayPal, Klarna, Amazon, carta, conto…) per vedere tutto quello che paghi con ognuno.
 - **Ambito, priorità e classifiche**: a cosa servono le spese, cosa è essenziale e cosa disdire.
@@ -32,6 +33,8 @@ Spese ricorrenti ti dà una visuale chiara e precisa di tutto quello che spendi 
 2. Aprilo e trascina **Spese ricorrenti** in **Applicazioni**.
 
 L'app è firmata con Developer ID e notarizzata da Apple: si apre senza avvisi.
+
+**Aggiornamenti automatici**: dalla versione 1.1 l'app controlla da sola GitHub (all'avvio e una volta al giorno) e, se c'è una versione nuova, ti propone di installarla con un clic. L'aggiornamento viene scaricato da questa pagina e installato solo se è firmato da me e notarizzato da Apple. Si può disattivare dalle Info.
 
 ### iPhone
 La versione per iPhone usa lo stesso file in iCloud Drive, quindi Mac e iPhone restano sincronizzati. È disponibile in beta con **TestFlight**:
