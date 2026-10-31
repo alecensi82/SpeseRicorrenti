@@ -16,6 +16,7 @@ All your fixed costs, instalments and subscriptions at a glance, with a forecast
 
 Spese ricorrenti ti dà una visuale chiara e precisa di tutto quello che spendi ogni mese: abbonamenti, rate, finanziamenti, bollette e pagamenti annuali. E guarda avanti: con la proiezione sui prossimi mesi capisci quanto spenderai e quando le uscite caleranno.
 
+- **Home semplice** con quanto esce nel mese, le spese raccolte in categorie **a tendina** e i **dettagli di ogni spesa in un pannello** (a destra sul Mac, dal basso su iPhone).
 - **Panoramica del mese**: addebiti reali, media mensile (bimestrali e annuali ripartiti), debito residuo di rate e finanziamenti.
 - **Grafico dei prossimi 12, 24 o 36 mesi**, con il dettaglio di ogni mese e cosa paghi **in più o in meno** rispetto al mese prima, con il motivo (una rata che finisce, un pagamento annuale…).
 - **Calendario degli addebiti**: in quale giorno pagherai cosa, e i prossimi addebiti in ordine di data.
@@ -53,6 +54,7 @@ Spese ricorrenti è gratuito per uso personale. Non è consentito ridistribuirlo
 
 Spese ricorrenti ("Recurring expenses") gives you a clear and precise view of everything you spend each month: subscriptions, instalments, loans, bills and yearly payments. And it looks ahead: the forecast for the coming months shows how much you will spend and when your outgoings will drop.
 
+- **Simple home** with what goes out this month, expenses grouped in **collapsible** categories and **each expense's details in a panel**.
 - **Month overview**: actual charges, monthly average (bimonthly and yearly payments spread out), remaining debt on instalments and loans.
 - **Chart of the next 12, 24 or 36 months**, with each month's detail and what you pay **more or less** than the month before, with the reason.
 - **Charge calendar**: which day you will pay what, plus upcoming charges in date order.
