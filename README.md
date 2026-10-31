@@ -41,7 +41,7 @@ L'app è firmata con Developer ID e notarizzata da Apple: si apre senza avvisi.
 La versione per iPhone usa lo stesso file in iCloud Drive, quindi Mac e iPhone restano sincronizzati. È disponibile in beta con **TestFlight**:
 1. Dall'iPhone apri il link **[https://testflight.apple.com/join/2YnQsk4s](https://testflight.apple.com/join/2YnQsk4s)**.
 2. Se non ce l'hai, installa l'app **TestFlight** di Apple, poi premi **Accetta** e **Installa**.
-3. Al primo avvio tocca **Collega iCloud** e scegli la cartella **iCloud Drive › Spese ricorrenti** (creala se non esiste), oppure usa l'app solo sul telefono.
+3. Al primo avvio una schermata di benvenuto ti fa scegliere dove salvare i dati: **Collega iCloud Drive** (cartella **iCloud Drive › Spese ricorrenti**, creala se non esiste: consigliato) oppure **Usa solo su iPhone** (in questo caso l'app ti ricorda una volta al mese di esportare un backup).
 
 Dentro TestFlight puoi inviare feedback e screenshot.
 

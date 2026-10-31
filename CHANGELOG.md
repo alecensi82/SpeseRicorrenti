@@ -1,6 +1,19 @@
 # Spese ricorrenti — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.3 — 2026-10-31
+
+**Benvenuto su iPhone per chi non ha il Mac.**
+- Al primo avvio su iPhone una schermata spiega cos'è l'app, come iniziare e dove salvare i dati: **in iCloud Drive** (consigliato: cartella «Spese ricorrenti», backup automatici, ritrovi tutto se cambi iPhone o usi anche il Mac) oppure **solo su questo iPhone**.
+- Chi tiene i dati solo sull'iPhone riceve **una volta al mese** un promemoria per esportare una copia di backup (o collegare iCloud Drive).
+- La schermata si può rivedere da Info › «Rivedi il benvenuto e dove salvare i dati».
+- iPhone senza iCloud collegato: il pulsante in alto diventa un più compatto «iCloud».
+
+*English* — **Welcome on iPhone for people without a Mac.**
+- On first launch on iPhone a screen explains what the app does, how to start and where to keep your data: **in iCloud Drive** (recommended: «Spese ricorrenti» folder, automatic backups, everything comes back if you change iPhone or also use the Mac) or **on this iPhone only**.
+- If you keep your data on the iPhone only, you get a reminder **once a month** to export a backup copy (or link iCloud Drive).
+- The screen can be reopened from Info.
+
 ## 1.2 — 2026-10-31
 
 **Nuovo layout: più semplice e più moderno.**
