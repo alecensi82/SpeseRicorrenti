@@ -1,6 +1,22 @@
 # Spese ricorrenti — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.4 — 2026-11-12
+
+**Nuova icona e tema «Notte», come PhotoBoard e Muletto.**
+- **Nuova icona** al neon: due schede di vetro (calendario e grafico) con la freccia circolare delle spese che si ripetono, su fondo blu notte.
+- **Tema «Notte»** (predefinito): fondo blu-nero profondo con aloni viola e petrolio e una griglia di puntini, pannelli di vetro, accento **verde acqua**.
+- **Mac**: i comandi passano in una **barra a pillola in basso**, come in PhotoBoard; la barra del titolo è trasparente.
+- **iPhone**: barra di stato chiara sui temi scuri e scura su quelli chiari; la schermata di benvenuto mostra la nuova icona.
+- Chi usava lo sfondo scuro passa da solo al tema Notte con l'accento verde acqua. Si torna indietro da Strumenti › Aspetto (Sfondo «Scuro», colore «Rosso»).
+
+*English* — **New icon and «Notte» (Night) theme, like PhotoBoard and Muletto.**
+- **New neon icon**: two glass cards (calendar and chart) with the circular arrow of recurring expenses, on a night-blue background.
+- **«Notte» theme** (default): deep blue-black background with violet and petrol glows and a dot grid, glass panels, **teal** accent.
+- **Mac**: commands move to a **floating pill bar at the bottom**, as in PhotoBoard; the title bar is transparent.
+- **iPhone**: light status bar on dark themes, dark on light themes; the welcome screen shows the new icon.
+- If you used the dark background you switch to Notte with the teal accent automatically. You can switch back in Tools › Appearance.
+
 ## 1.3 — 2026-10-31
 
 **Benvenuto su iPhone per chi non ha il Mac.**
