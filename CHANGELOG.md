@@ -1,6 +1,14 @@
 # Spese ricorrenti — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.4.1 — 2026-11-13
+
+**Icona rinnovata.**
+- L'icona ora mostra un solo **grafico a barre più grande** al centro, senza il calendario dietro, sempre con la freccia circolare delle spese che si ripetono.
+
+*English* — **Refreshed icon.**
+- The icon now shows a single, **larger bar chart** in the centre, without the calendar behind it, still with the circular arrow of recurring expenses.
+
 ## 1.4 — 2026-11-12
 
 **Nuova icona e tema «Notte», come PhotoBoard e Muletto.**
