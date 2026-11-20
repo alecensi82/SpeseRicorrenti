@@ -1,6 +1,22 @@
 # Spese ricorrenti — Novità / What's new
 Storico delle versioni, dalla più recente. / Version history, newest first.
 
+## 1.5 — 2026-11-20
+
+**Widget per Mac e iPhone e tema «Vice».**
+- **Widget «Spese del mese»** in tre misure: totale del mese con il confronto col mese prima, barra delle categorie, prossimi addebiti; il grande mostra anche l'andamento dei prossimi 12 mesi.
+- **iPhone**: anche sulla schermata di blocco (riga sopra l'ora, riquadro e tondino).
+- Il widget va avanti da solo ogni giorno: i prossimi addebiti scorrono e a inizio mese passa al mese nuovo, anche senza aprire l'app.
+- **Tema «Vice (arcade)»**: Miami al neon anni '80, con tramonto, griglia, palme e titoli cromati. Si sceglie da Strumenti › Aspetto › Sfondo.
+- Mac: il widget compare in «Modifica widget» dopo aver aperto l'app la prima volta.
+
+*English* — **Widgets for Mac and iPhone and «Vice» theme.**
+- **«Spese del mese» widget** in three sizes: this month's total compared with last month, category bar, upcoming charges; the large one also shows the next 12 months.
+- **iPhone**: also on the Lock Screen (inline, rectangular and circular).
+- The widget moves forward by itself every day, even without opening the app.
+- **«Vice (arcade)» theme**: 80s neon Miami, with sunset, grid, palm trees and chrome titles. Choose it in Tools › Appearance › Background.
+- Mac: the widget appears in «Edit Widgets» after opening the app once.
+
 ## 1.4.1 — 2026-11-13
 
 **Icona rinnovata.**
